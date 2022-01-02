@@ -15,11 +15,14 @@ It's more interesting analyze the prices by maufacturer
 seaborn: https://seaborn.pydata.org/tutorial/distributions.html
 
 Histogram: Freq vs Producer.
+
 ![image](https://user-images.githubusercontent.com/78567418/147879646-f18564db-47d7-489e-86a5-b6fc55d6da79.png)
 
 Histogram: Freq vs Engine Type.
+
 ![image](https://user-images.githubusercontent.com/78567418/147880026-eb944e67-7c7c-4d12-9a8d-5d873c4ded9f.png)
 
 Inspect prices of a producer and particular model.
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/78567418/147880078-ede47833-cf89-4d7e-9de8-c3fcd5b75ab8.png)
 
